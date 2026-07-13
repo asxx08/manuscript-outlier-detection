@@ -15,7 +15,11 @@ For any questions please contact anqi.sui.18@ucl.ac.uk
 ###############################################################################
 
 This repository contains all R scripts used for the CMM, RELR, and QQ-Lin methods 
-presented in the manuscript
+presented in the manuscript.
+
+We are also working towards producing a R package to further facilitate the 
+implementation of the CMM, RELR, and QQ-Lin, and relevant updates will be posted 
+in this repository.
 
 -------------------------------------------------------------------------------
 R files included
